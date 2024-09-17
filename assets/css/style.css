@@ -2,25 +2,6 @@
     overflow-x: hidden;
 }
 
-@media screen and(max-width: 320px) {
-    head{
-        display: flex;
-        flex-wrap: wrap;
-    }
-    
-}
-@media screen and(max-width: 320px) {
-    div{
-        position: absolute;
-        top: 200px;
-
-    }
-    
-}
-
-
-
-
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     float: left;
@@ -35,15 +16,6 @@ body{
     height: 70px;
     width: 1500px;
     top: -16px;
-    left: 0px;
-    background-color: rgb(36, 30, 30);
-    z-index: 1;
-}
-.back1{
-    position: fixed;
-    height: 100px;
-    width: 1500px;
-    top: 800px;
     left: 0px;
     background-color: rgb(36, 30, 30);
     z-index: 1;
@@ -151,16 +123,6 @@ h5{
     position: relative;
     top: 52PX;
     left: 0px;
-    position: fixed;
-    z-index: 2;
-}
-.line2{
-    width:500px;
-    height: 2px;
-    background-color:  white ;
-    position: absolute;
-    top: 800PX;
-    right: 5px;
     position: fixed;
     z-index: 2;
 }
