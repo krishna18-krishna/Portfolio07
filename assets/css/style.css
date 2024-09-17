@@ -43,7 +43,7 @@ body{
     position: fixed;
     height: 100px;
     width: 1500px;
-    top: 760px;
+    top: 800px;
     left: 0px;
     background-color: rgb(36, 30, 30);
     z-index: 1;
@@ -159,7 +159,7 @@ h5{
     height: 2px;
     background-color:  white ;
     position: absolute;
-    top: 760PX;
+    top: 800PX;
     right: 5px;
     position: fixed;
     z-index: 2;
